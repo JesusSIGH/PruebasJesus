@@ -11,3 +11,7 @@ p{
 table{
     border: 2px groove rgb(0, 0, 141);
 }
+ul{
+    color: red;
+    text-align: center;
+}
